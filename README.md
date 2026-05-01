@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Flight booking and E-commerce applications.<br><br>👯 I’m looking to collaborate on: Innovative web applications and open-source tools.<br><br>🤝 I’m looking for help with: Planning and architecting my upcoming large-scale projects.<br><br>🌱 I’m currently learning: New programming languages and expanding my technical stack.<br><br>💬 Ask me about: Web development, UI/UX for E-commerce, or my recent flight booking app.<br><br>⚡ Fun fact: I love solving complex logic puzzles as much as I love writing clean code!
+🔭 I’m currently working on: POS Application and LMS.<br><br>👯 I’m looking to collaborate on: Innovative web applications and open-source tools.<br><br>🤝 I’m looking for help with: Planning and architecting my upcoming large-scale projects.<br><br>🌱 I’m currently learning: New programming languages and expanding my technical stack.<br><br>💬 Ask me about: Web development, UI/UX for E-commerce, or my recent flight booking app.<br><br>⚡ Fun fact: I love solving complex logic puzzles as much as I love writing clean code!
 
 
 ## 🌐 Socials:
